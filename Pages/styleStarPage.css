@@ -1,0 +1,28 @@
+.videoClass{
+    align-content: center;
+    text-align: center;
+}
+h1{
+    color: black;
+    text-align:center;
+    font-size: xx-large;
+    border-style: groove;
+    border-bottom: outset;
+    border-top: outset;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    background-color: ivory;
+}
+h2{
+    text-align: center;
+    border-radius: 2px;
+    background-color: ivory;
+    box-shadow: 10px 10px;
+    box-shadow: black;
+}
+body
+{
+font-family: html;
+text-align: justify;
+background-image: url("https://lumiere-a.akamaihd.net/v1/images/sa_pixar_virtualbg_coco_16x9_9ccd7110.jpeg");
+}

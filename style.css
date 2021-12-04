@@ -1,0 +1,57 @@
+h1{
+    color: black;
+    text-align:center;
+    font-size: xx-large;
+    border-style: groove;
+    border-bottom: outset;
+    border-top: outset;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    background-color: ivory;
+}
+.title:hover{
+    transform: rotate(360deg);
+    transform: scale(1.2, 1.2);
+}
+body{
+    font-family: fantasy;
+    text-align: center;
+    background-image: url("https://lumiere-a.akamaihd.net/v1/images/sa_pixar_virtualbg_coco_16x9_9ccd7110.jpeg");
+}
+
+.flex-container {
+    display: flex;
+    background-color: rgba(0, 1, 2, 0.459);
+    justify-content: center;
+  }
+
+.flex-container > div {
+    text-align: center;
+    text-transform: uppercase;
+    border-style: outset;
+    border-color: rgb(0, 0, 0);
+    background-color: ivory;
+    background-color: #ffffffc7;
+    margin: 50px;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 10px 10px;
+  }
+  .flex-container > div:hover{
+      background-color: rgba(255, 255, 240, 0.549);
+
+  }
+  figcaption{
+      border-style: outset;
+      background-color: ivory;
+  }
+  figcaption:hover{
+      text-transform: uppercase;
+  }
+  figure{
+      box-shadow: 5px 5px;
+  }
+ 
+
+
